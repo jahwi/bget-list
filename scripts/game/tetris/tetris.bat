@@ -7,7 +7,7 @@ title Tetris.BAT by Aacini
 rem Written by Antonio Perez Ayala..
 rem http://www.dostips.com/forum/viewtopic.php?f=3&t=6812
 rem Reference: http://colinfahey.com/tetris/tetris.html
-rem 2015/11/27 - version 1.0
+rem 2015/11/27 - version 1.0.0
 
 ::::BgetDescription#Pure-batch tetris game with low flicker.
 ::::BgetAuthor#Antonio Perez Ayala
