@@ -5,7 +5,3 @@
 # [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author
 [#],test,https://raw.githubusercontent.com/jahwi/bget-list/master/test.bat,The Bget test file,test.bat,d20e619cbcdc632a9bec34d2cd46cb78,Jahwi,test files
 [#],cpfex,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/cpfex/cpfex.bat,Control panel to file explorer,cpfex.bat,add6f3a6e4d976e1d3d68336885fbf60,FreeBooter,utilities
-[#],bigtext,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/cpfex/cpfex.bat,Display big text without altering fonts.,bigtext.bat,cd7b160eb32daf8e1b02f01ee1b1ec3f,Antonio Perez Ayala,library
-[#],csv,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/cpfex/cpfex.bat,CSV.BAT allows interaction with CSV or TSV or similar files with SQL syntax.,csv.bat,e8c262849fc0c036b6f8f6a620ce87cb,Rojo,library
-[#],findrepl,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/cpfex/cpfex.bat,Advanced command to find and replace strings.,findrepl.bat,29e0715f4f0edbdd7e41472f554b4762,Antonio Perez Ayala,library
-[#],tetris,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/cpfex/cpfex.bat,Pure-batch tetris game with low flicker.,tetris.bat,d81dfa3c19afae5b48b70132d6ae2340,Antonio Perez Ayala,game
