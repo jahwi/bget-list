@@ -4,4 +4,4 @@
 #this file is delimited thus:
 # [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author
 [#],test,https://raw.githubusercontent.com/jahwi/bget-list/master/test.bat,The Bget test file,test.bat,d20e619cbcdc632a9bec34d2cd46cb78,Jahwi,test files
-[#],cpfex,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/cpfex/cpfex.bat,Control panel to file explorer,cpfex.bat,add6f3a6e4d976e1d3d68336885fbf60,FreeBooter,system utilities
+[#],cpfex,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/cpfex/cpfex.bat,Control panel to file explorer,cpfex.bat,add6f3a6e4d976e1d3d68336885fbf60,FreeBooter,system utilities
