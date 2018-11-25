@@ -4,7 +4,7 @@ setlocal EnableDelayedExpansion
 if "%~1" neq "" goto %1
 
 title Tetris.BAT by Aacini
-rem Written by Antonio Perez Ayala
+rem Written by Antonio Perez Ayala..
 rem http://www.dostips.com/forum/viewtopic.php?f=3&t=6812
 rem Reference: http://colinfahey.com/tetris/tetris.html
 rem 2015/11/27 - version 1.0

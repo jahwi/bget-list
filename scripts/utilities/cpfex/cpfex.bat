@@ -3,10 +3,12 @@ Title Dost-Tech & Color 1A
 
 Cd %systemroot%\system32
 
+::::BgetDescription#Shows the control panel icon in the file explorer.
+::::BgetAuthor#Freebooter
+::::BgetCategory#utilities
 
 
-
-REM  --> Check for permissions
+REM  --> Check for permissions.
 Reg query "HKU\S-1-5-19\Environment" 
 REM --> If error flag set, we do not have admin.
 if %errorlevel% NEQ 0 (

@@ -3,7 +3,7 @@
 :: -----------------------------------------------------
 :: csv.bat v1.1.2
 :: csv.bat /? for usage
-::
+::.
 :: For updates and discussion, visit
 :: http://www.dostips.com/forum/viewtopic.php?f=3&t=6184
 :: -----------------------------------------------------

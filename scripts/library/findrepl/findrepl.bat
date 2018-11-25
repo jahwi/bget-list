@@ -16,7 +16,7 @@ rem FindRepl.bat: Utility to search and search/replace strings in a file
 rem http://www.dostips.com/forum/viewtopic.php?f=3&t=4697
 rem Antonio Perez Ayala 
 
-rem   - Jun/26/2013: first version.
+rem   - Jun/26/2013: first version..
 rem   - Jul/02/2013: use /Q in submatched substrings, use /VR for /V in Replace, eliminate "\r\n" in blocks.
 rem   - Jul/07/2013: change /VR by /R, search for "\r\n" with /$ and no /V, /N nor blocks.
 
