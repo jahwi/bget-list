@@ -6,6 +6,7 @@
 [#],test,https://raw.githubusercontent.com/jahwi/bget-list/master/test.bat,The Bget test file,test.bat,d20e619cbcdc632a9bec34d2cd46cb78,Jahwi,test files
 [#],bchess,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/bchess/bchess.bat,batch implementation of chess.,bchess.bat,826b1d8d6efd9a13ac6d5d7547dea955,Kolt101,game
 [#],bigtext,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/bigtext/bigtext.bat,Display big text without altering fonts.,bigtext.bat,cd7b160eb32daf8e1b02f01ee1b1ec3f,Antonio Perez Ayala,library
+[#],bpoker,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/bpoker/bpoker.cab,Poker game made in batch.,bpoker.cab,72e44ac3087d5765a85c50753e47b7bd,JohnBatch,game
 [#],cpfex,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/cpfex/cpfex.bat,Shows the control panel icon in the file explorer.,cpfex.bat,da7221b0a2f7a8f52dbd77976051059c,Freebooter,utilities
 [#],csv,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/csv/csv.bat,CSV.BAT allows interaction with CSV or TSV or similar files with SQL syntax.,csv.bat,30d1ed24fe0249aba767f9a84e5928a8,Rojo,library
 [#],findrepl,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/findrepl/findrepl.bat,Advanced command to find and replace strings.,findrepl.bat,e4fc3983c5a8db6d509d272eed351a6a,Antonio Perez Ayala,library
