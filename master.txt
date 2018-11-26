@@ -12,5 +12,6 @@
 [#],findrepl,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/findrepl/findrepl.bat,Advanced command to find and replace strings.,findrepl.bat,e4fc3983c5a8db6d509d272eed351a6a,Antonio Perez Ayala,library
 [#],gplot,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/gplot/gplot.bat,Crude quadratic graph plotter.,gplot.bat,cdf48c0ab353718e0faeebaf3e8acb96,Jahwi,library
 [#],graphicsmacro,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/graphicsmacro/graphicsmacro.bat,Macro library for graphics.,graphicsmacro.bat,2917c28edc780661769f2c0099df10a3,Icarus,library
+[#],spgen,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/spgen/spgen.bat,Sheep-dog game movement engine.,spgen.bat,f5f26677ded588ae5a6abe10bbd5542c,Icarus,library
 [#],strfunct,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/strfunct/strfunct.bat,Library of string manipulation functions.,strfunct.bat,a271431a80961f2cec0b3df80742517a,Icarus,library
 [#],tetris,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/tetris/tetris.bat,Pure-batch tetris game with low flicker.,tetris.bat,954ab12e458f1142cc015e547238fbb3,Antonio Perez Ayala,game
