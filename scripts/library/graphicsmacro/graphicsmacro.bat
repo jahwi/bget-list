@@ -11,7 +11,7 @@ set RBGplot=for %%# in (1 2) do if %%#==2 ( for /f "tokens=1-5" %%1 in ("^!args^
   set "screen=^!screen^!!esc![%%2;%%1H!esc![38;2;%%3;%%4;%%5m?!esc![0m"%\n%
 )) else set args=
 
-::::BgetDescription#Macro library for graphics.
+::::BgetDescription#Macro library for graphics. [Win10 Only]
 ::::BgetAuthor#Icarus
 ::::BgetCategory#library
 
