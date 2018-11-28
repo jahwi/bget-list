@@ -26,5 +26,4 @@
 [#],strfunct,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/strfunct/strfunct.bat,Library of string manipulation functions.,strfunct.bat,a271431a80961f2cec0b3df80742517a,Icarus,library
 [#],tetris,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/tetris/tetris.bat,Pure-batch tetris game with low flicker.,tetris.bat,954ab12e458f1142cc015e547238fbb3,Antonio Perez Ayala,game
 [#],viboras,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/viboras/viboras.cab,local multiplayer snake game.,viboras.cab,7c600cdfd2a8dfe59fc3b5c0e3a48a15,Aacini,game
-[#],wof,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts//wof/wof.cab,,wof.cab,cfcd2a889c8413bbd27eb8cae6338a74,,
 [#],zline,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/zline/zline.bat,graphical zombie shooter feat Bario.[Win10 Only],zline.bat,75b8f8800f4da8bd65a19a52d2a14940,Icarus,game
