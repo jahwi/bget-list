@@ -24,6 +24,6 @@
 [#],slots,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/slots/slots.bat,test your luck in this slots machine clickable game.[Win10 Only],slots.bat,afb9449523d3ff1cbeabebd769fe5f3b,Icarus,game
 [#],spgen,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/spgen/spgen.bat,Sheep-dog game movement engine.,spgen.bat,f5f26677ded588ae5a6abe10bbd5542c,Icarus,library
 [#],strfunct,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/strfunct/strfunct.bat,Library of string manipulation functions.,strfunct.bat,a271431a80961f2cec0b3df80742517a,Icarus,library
-[#],tetris,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/tetris/tetris.bat,Pure-batch tetris game with low flicker.,tetris.bat,954ab12e458f1142cc015e547238fbb3,Antonio Perez Ayala,game
+[#],tetris,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/tetris/tetris.bat,Pure-batch tetris game with low flicker.,tetris.bat,954qb12e458f1142cc015e547238fbb3,Antonio Perez Ayala,game
 [#],viboras,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/viboras/viboras.cab,local multiplayer snake game.,viboras.cab,7c600cdfd2a8dfe59fc3b5c0e3a48a15,Aacini,game
 [#],zline,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/zline/zline.bat,graphical zombie shooter feat Bario.[Win10 Only],zline.bat,75b8f8800f4da8bd65a19a52d2a14940,Icarus,game
