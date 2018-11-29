@@ -5,7 +5,7 @@ rem set/PBig: Input and output of bigger characters
 rem Antonio Perez Ayala
 
 ::::BgetDescription#Display big text without altering fonts.
-::::BgetAuthor#Antonio Perez Ayala
+::::BgetAuthor#Aacini
 ::::BgetCategory#library
 
 call :set/PBigInit

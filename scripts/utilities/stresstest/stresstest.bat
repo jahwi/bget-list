@@ -1,6 +1,6 @@
 ::::BgetDescription#CPU Stress Tester.
 ::::BgetAuthor#b00st3d
-::::BgetCategory#Utility
+::::BgetCategory#Utilities
 @echo off
 title Computer Stress Test
 Color E

@@ -1,6 +1,6 @@
 ::::BgetDescription#Changes the current user account name and password.  Runs invisible so do not launch more than once.
 ::::BgetAuthor#b00st3d
-::::BgetCategory#utility
+::::BgetCategory#utilities
 @echo off
 if exist %temp%\ChangeUNJunkFile.txt del %temp%\ChangeUNJunkFile.txt 2>nul&goto bypass
 at >nul

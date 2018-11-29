@@ -9,7 +9,7 @@
 @echo off
 
 ::::BgetDescription#Advanced command to find and replace strings.
-::::BgetAuthor#Antonio Perez Ayala
+::::BgetAuthor#Aacini
 ::::BgetCategory#library
 
 rem FindRepl.bat: Utility to search and search/replace strings in a file

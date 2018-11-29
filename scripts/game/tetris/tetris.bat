@@ -10,7 +10,7 @@ rem Reference: http://colinfahey.com/tetris/tetris.html
 rem 2015/11/27 - version 1.0.0
 
 ::::BgetDescription#Pure-batch tetris game with low flicker.
-::::BgetAuthor#Antonio Perez Ayala
+::::BgetAuthor#Aacini
 ::::BgetCategory#game
 
 rem Delete the next line when Bitmap font 16x8 is used

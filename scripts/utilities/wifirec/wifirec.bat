@@ -1,6 +1,6 @@
 ::::BgetDescription#List all wireless networks and passwords on the local machine.
 ::::BgetAuthor#b00st3d
-::::BgetCategory#utility
+::::BgetCategory#utilities
 @echo off
 NET FILE 1>NUL 2>NUL
 if %errorlevel% == 0 goto elevated
