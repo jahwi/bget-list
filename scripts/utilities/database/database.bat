@@ -4,7 +4,7 @@ set Verz=1.4
 
 ::::BgetDescription#Create and maintain databases in Batch
 ::::BgetAuthor#Lucas
-::::BgetCategory#utility
+::::BgetCategory#utilities
 
 set type=none
 FOR /F "tokens=4-7 delims=[]. " %%i in ('ver') DO (
