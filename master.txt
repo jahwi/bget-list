@@ -46,4 +46,4 @@
 [#],viboras,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/viboras/viboras.cab,local multiplayer snake game.,viboras.cab,7c600cdfd2a8dfe59fc3b5c0e3a48a15,Aacini,game	
 [#],wifirec,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/wifirec/wifirec.bat,List all wireless networks and passwords on the local machine.,wifirec.bat,3aa17510dc75f2978949aec876150e1b,b00st3d,utilities	
 [#],zline,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/zline/zline.bat,graphical zombie shooter feat Bario.[Win10 Only],zline.bat,75b8f8800f4da8bd65a19a52d2a14940,Icarus,game
-[#],setaengine,https://github.com/Honguito98/Seta-Engine-for-Batch-games/archive/master.zip,A collection of several game engines for batch scripting.,seta.zip,External-File-No-Hash-Available,Honguito98,graphics
+[#],setaengine,https://codeload.github.com/Honguito98/Seta-Engine-for-Batch-games/zip/master,A collection of several game engines for batch scripting.,seta.zip,External-File-No-Hash-Available,Honguito98,graphics
