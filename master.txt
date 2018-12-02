@@ -28,7 +28,6 @@
 [#],graphicsmacro,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/graphicsmacro/graphicsmacro.bat,Macro library for graphics. [Win10 Only],graphicsmacro.bat,c67c534a49a786e7a3052b5077292370,Icarus,library	
 [#],intobatch,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/intobatch/intobatch.bat,Convert any program into a script you can put in your batch script.,intobatch.bat,038e85ec357266af2cf27afc2fb9f9f4,Lucas,utilities	
 [#],jren,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/jren/jren.bat,Tool for carrying out advanced renaming operations.,jren.bat,30b8e8618310a17da78634f74a78c02a,dbenham,utilities	
-[#],mapeditor,https://github.com/Honguito98/map-editor-batch/archive/master.zip,Map Editor is a tool for maps in ANSI Art for videogames programed in batch files using the SETA engine.,Honguito98,External-File-No-Hash-Available,graphics,
 [#],mathmacro,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/mathmacro/mathmacro.bat,A full-feature math macro.,mathmacro.bat,843713f2c2b242beec2dd467d8472114,CirothUngol,library	
 [#],pdftojpg,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/pdftojpg/pdftojpg.bat,pdftojpg,pdftojpg.bat,0c86c5a933383474524349a2abfbe732,Annikk,utilities	
 [#],pingsweep,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/pingsweep/pingsweep.bat,Ping sweep the local network.,pingsweep.bat,b073345f56e2733a163b513cb8c52422,b00st3d,utilities	
@@ -36,7 +35,6 @@
 [#],rayc,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/rayc/rayc.bat,Raycast implementation in pure batch,rayc.bat,902609300112d41278a123c12d95bbed,Einstein1969,library	
 [#],regutils,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/regutils/regutils.cab,collection of miscellaneous registry tweaks.,regutils.cab,1cdf2ed1020b80d224f234cff3549993,FreeBooter,utilities	
 [#],rforline,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/rforline/rforline.bat,Read a line from keyboard with specific format,rforline.bat,891a3e5471092cf0377e086f088a6380,Aacini,library	
-[#],setaengine,https://github.com/Honguito98/Seta-Engine-for-Batch-games/archive/master.zip,A collection of several game engines for batch scripting.,seta.zip,External-File-No-Hash-Available,Honguito98,graphics
 [#],slots,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/slots/slots.bat,test your luck in this slots machine clickable game.[Win10 Only],slots.bat,afb9449523d3ff1cbeabebd769fe5f3b,Icarus,game	
 [#],softap,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/softap/softap.bat,Create a soft wireless access point.  You should have a wired and wireless connection to provide internet.,softap.bat,201aed50cd925cbc411996bc9f207d9b,b00st3d,utilities	
 [#],spgen,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/spgen/spgen.bat,Sheep-dog game movement engine.,spgen.bat,f5f26677ded588ae5a6abe10bbd5542c,Icarus,library	
@@ -46,7 +44,5 @@
 [#],txttospeech,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/txttospeech/txttospeech.bat,Simple text-to-speech,txttospeech.bat,c1934fd22a70cb9c54953172ef6acd46,Jahwi,utilities	
 [#],uacchanger,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/uacchanger/uacchanger.bat,Changes the current user account name and password.  Runs invisible so do not launch more than once.,uacchanger.bat,ad0c98d935f6175dd5c9aae5b5d7aa4f,b00st3d,utilities	
 [#],viboras,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/viboras/viboras.cab,local multiplayer snake game.,viboras.cab,7c600cdfd2a8dfe59fc3b5c0e3a48a15,Aacini,game	
-[#],viewpoint,https://github.com/Honguito98/batch-game-viewpoint/archive/master.zip,90s style batch game.,viewpoint.zip,External-File-No-Hash-Available,Honguito98,game
 [#],wifirec,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/wifirec/wifirec.bat,List all wireless networks and passwords on the local machine.,wifirec.bat,3aa17510dc75f2978949aec876150e1b,b00st3d,utilities	
-[#],ytdown,https://github.com/Lettly/Youtube-Download-Batch/archive/master.zip,Download videos from Youtube,ytdown.zip,External-File-No-Hash-Available,Lettly,utilities
 [#],zline,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/zline/zline.bat,graphical zombie shooter feat Bario.[Win10 Only],zline.bat,75b8f8800f4da8bd65a19a52d2a14940,Icarus,game	
