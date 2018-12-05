@@ -1,5 +1,5 @@
 @ECHO OFF
-
+::
 :: Xp batch for generating calendars
 :: Chances look good for win 2000 and above(untested)
 :: By Judago, August 2009
