@@ -1,7 +1,7 @@
 @echo off & setlocal enableDelayedExpansion
 call :macros
 
-::::BgetDescription#Polydon-drawing function.
+::::BgetDescription#Polygon-drawing function.
 ::::BgetAuthor#Icarus
 ::::BgetCategory#library
 
