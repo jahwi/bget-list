@@ -9,7 +9,7 @@
 ::       Batchography: The Art of Batch Files Programming
 ::
 ::::BgetDescription#Change the MAC address of network adapters using Batch
-::::BgetAuthor#Elias
+::::BgetAuthor#Elias Bachaalany
 ::::BgetCategory#utilities
 :main
     setlocal enabledelayedexpansion
