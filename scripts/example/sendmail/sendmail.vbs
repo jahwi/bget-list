@@ -1,4 +1,4 @@
-''''Bgetdescription#Send an email using VBScript.
+''''Bgetdescription#[VBS] Send an email using VBScript.
 ''''Bgetauthor#dmarietta
 ''''Bgetcategory#example
 Set objMail = CreateObject("CDO.Message")
