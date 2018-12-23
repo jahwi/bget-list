@@ -2,7 +2,7 @@ echo off& prompt $G& cls
 REM This script converts a single file or a whole folder of files from PDF to jpg.
 REM The user should drag-and-drop the target file or folder onto this script.
 
-::::BgetDescription#pdftojpg
+::::BgetDescription#Convert PDFs to JPGs.
 ::::BgetAuthor#Annikk
 ::::BgetCategory#utilities
 
