@@ -138,6 +138,7 @@
 [#],which,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/which/which.bat,Simulation of the Linux which command.,which.bat,ab86561edebc687f19f544dfced5fd00,mrkskwsnck,tools,
 [#],wifirec,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/wifirec/wifirec.bat,List all wireless networks and passwords on the local machine.,wifirec.bat,3aa17510dc75f2978949aec876150e1b,b00st3d,utilities,
 [#],word2pdf,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/word2pdf/word2pdf.cab,Natively convert Word/Excel/PPT docs to PDFs.,word2pdf.cab,9da967d70a2a2cd53264893d49199564,StephenMillard,utilities,
+[#],wsfm,https://codeload.github.com/ManuelGil/File-Manager/zip/master,Create backups update files or extract specific files from a web application using Windows Server as a platform.,wsfm.zip,External-File-No-Hash-Available,MFGil,tools,
 [#],wureset,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/wureset/wureset.cab,This Script allows you reset the Windows Update Agent resolving issues with Windows Update.,wureset.cab,25bdb041143cdbe117329e391f404412,MFGil,utilities,
 [#],xorcrypt,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/example/xorcrypt/xorcrypt.bat,XOR encryption example.,xorcrypt.bat,8ca67053ac383c4d5cbe855b3c9e53f8,Meerkat,example,
 [#],yahtzee,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/yahtzee/yahtzee.bat,YAHTZEE in batch.,yahtzee.bat,5af9f4b419efe54b70ff0abc6208769b,aGerman,game,
