@@ -11,6 +11,7 @@ for /F "delims=" %%a in ('wmic path softwarelicensingservice get oa3xoriginalpro
 ) 
 :Exit 
 echo Key=%key% 
- 
+choice /c yn /n /m "Activate key? [y/n]
+if "!errorlevel!"=="2" exit /b
 cscript //NoLogo //B %windir%\system32\slmgr.vbs /ipk %key% 
 cscript //NoLogo //B %windir%\system32\slmgr.vbs /ato

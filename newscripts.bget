@@ -3,3 +3,8 @@
 [beep] [Causes a beep.] [29/12/2018]
 [togupdate] [Enable or disable Windows update.] [10/01/2019]
 [foxcert] [Script to add new CA certificates to the Firefox trusted certificate store on Windows] [10/01/2019]
+[printscreen] [Printscreen script. Requires .NET Framework.] [15/01/2019]
+[survivor] [Survivor is a game that simulates you being in a survival situation without all the fancy graphics.] [15/01/2019]
+[djbuzzradio] [[VBS] Listen to live internet music.] [15/01/2019]
+[pubip] [[VBS] Outputs public IP and other IP details.] [15/01/2019]
+[sysrestore] [[VBS] Create a System Restore point in Windows 10; 8; 7; Vista and XP] [15/01/2019]
