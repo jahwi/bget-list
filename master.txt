@@ -17,6 +17,7 @@
 [#],battlescript,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/battlescript/battlescript.cab,Battleship in batch.,battlescript.cab,dafab3037be802d74a1034b1054b7ef0,corpnewt,game,
 [#],bchess,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/bchess/bchess.bat,batch implementation of chess.,bchess.bat,826b1d8d6efd9a13ac6d5d7547dea955,Kolt101,game,
 [#],bcrc32,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/bcrc32/bcrc32.bat,C3C32 batch implementation.,bcrc32.bat,eee26b1b63817098da3fa56bb9b461fa,Einstein1969,library,
+[#],bdown,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/bdown/bdown.cab,Multi-method downloader script.,bdown.cab,6054e3237ef8792c68cd0bf0ee995863,Jahwi,tools,
 [#],beep,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/example/beep/beep.bat,Causes a beep.,beep.bat,7ce8085486e3519d9bb3727f25ab70b5,Jahwi,example,
 [#],bfai,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/bfai/bfai.cab,Batch chatbot and free-roaming AI.,bfai.cab,3d8bfd9d6695551f858215f2475e23ae,dosbos,tools,
 [#],bgi,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/bgi/bgi.bat,BGI-like library for batch files.,bgi.bat,56ab16bf91c9d8cd96e580981a8ff73c,Aacini,library,
