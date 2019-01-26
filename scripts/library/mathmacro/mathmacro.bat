@@ -41,6 +41,7 @@
 ::::BgetDescription#A full-feature math macro.
 ::::BgetAuthor#CirothUngol
 ::::BgetCategory#library
+::::Bgettags#number;figure
 
 @ECHO OFF
 SET $M#=

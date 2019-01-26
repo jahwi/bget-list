@@ -3,7 +3,7 @@
 ::::BgetDescription#Brickbreaker-type game.
 ::::BgetAuthor#Icarus
 ::::BgetCategory#game
-
+::::Bgettags#block
 rem icky lives
 
 if "%~1" neq "" goto %~1

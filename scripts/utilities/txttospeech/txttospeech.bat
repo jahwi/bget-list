@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 ::::BgetDescription#Simple text-to-speech
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#utilities
-
+::::Bgettags#voice;aloud;read
 
 :begin
 set /p file_to_read=Enter the file to read::

@@ -4,6 +4,7 @@
 ::::BgetDescription#Snake game made in batch.
 ::::BgetAuthor#Dave Benham
 ::::BgetCategory#game
+::::Bgettags#slither
 :: Written by Dave Benham with some debugging help and technique pointers from
 :: DosTips users - See http://www.dostips.com/forum/viewtopic.php?f=3&t=4741
 ::

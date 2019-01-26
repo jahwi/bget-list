@@ -11,6 +11,7 @@
 ::::BgetDescription#Change the MAC address of network adapters using Batch
 ::::BgetAuthor#Elias Bachaalany
 ::::BgetCategory#utilities
+::::Bgettags#network
 :main
     setlocal enabledelayedexpansion
 

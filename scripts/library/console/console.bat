@@ -1,4 +1,4 @@
-@echo off
+@\echo off
 goto :console
 
 ::CONSOLE.BAT version 2.2 by Dave Benham
@@ -6,6 +6,7 @@ goto :console
 ::::BgetDescription#Allows advanced ability to get or set console attributes.
 ::::BgetAuthor#DaveBenham
 ::::BgetCategory#library
+::::Bgettags#window;script
 ::  Release History:
 ::    2.2  2016-05-14: Added ability to set attributes relative to current value
 ::    2.1  2016-05-13: Added /S option to sleep for N msec

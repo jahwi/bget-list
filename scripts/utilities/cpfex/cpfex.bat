@@ -6,7 +6,7 @@ Cd %systemroot%\system32
 ::::BgetDescription#Shows the control panel icon in the file explorer.
 ::::BgetAuthor#Freebooter
 ::::BgetCategory#utilities
-
+::::Bgettags#admin;context menu
 
 REM  --> Check for permissions.
 Reg query "HKU\S-1-5-19\Environment" 

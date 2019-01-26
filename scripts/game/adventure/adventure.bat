@@ -36,6 +36,7 @@
 ::::BgetDescription#A pure batch implementation of the classic game-Adventure.
 ::::BgetAuthor#DaveBenham
 ::::BgetCategory#game
+::::Bgettags#rpg
 
 
 @echo off

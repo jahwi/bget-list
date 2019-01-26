@@ -6,6 +6,7 @@
 ''''Bgetdescription#[VBS] Create a System Restore point in Windows 10; 8; 7; Vista and XP
 ''''Bgetauthor#Ramesh Srinivasan
 ''''Bgetcategory#utilities
+''''Bgettags#savepoint
 
 If GetOS = "Windows XP" Then CreateSRP
 If GetOS = "Windows Vista" Or GetOS = "Windows 7" Then

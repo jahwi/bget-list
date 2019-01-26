@@ -6,6 +6,7 @@
 ::::BgetDescription#Calendar script capable of various date functions.
 ::::BgetAuthor#Judago
 ::::BgetCategory#utilities
+::::Bgettags#time
 IF "%~1"=="/?" (
     ECHO START "%~NX0" WITHOUT ARGUMENTS AND THEN ENTER THE YEAR.
     ECHO "%~NX0" WILL OPEN IN IT'S OWN WINDOW TO AVOID RESIZING

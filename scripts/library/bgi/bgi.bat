@@ -3,6 +3,7 @@ Written by Antonio Perez Ayala aka Aacini
 ::::BgetDescription#Borland Graphics Interface library for Windows Batch files
 ::::BgetAuthor#Aacini
 ::::BgetCategory#library
+::::Bgettags#bgi;draw
 BGI Reference: http://www.cs.colorado.edu/~main/bgi/doc/
 Canvas Reference: http://www.w3schools.com/tags/ref_canvas.asp
 

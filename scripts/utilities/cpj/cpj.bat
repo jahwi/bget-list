@@ -1,6 +1,7 @@
 ::::BgetDescription#Clear stuck print jobs.
 ::::BgetAuthor#b00st3d
 ::::BgetCategory#utilities
+::::Bgettags#printer;paper
 @echo off
 NET FILE 1>NUL 2>NUL
 if %errorlevel% == 0 goto elevated

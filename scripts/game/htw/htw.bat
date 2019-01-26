@@ -3,6 +3,7 @@
 ::::BgetDescription#Hunt The Wumpus- batch version.
 ::::BgetAuthor#DaveBenham
 ::::BgetCategory#game
+::::Bgettags#port
 :: "Hunt The Wumpus" game by Gregory Yob, circa 1972
 ::
 :: Ported to Windows batch by Dave Benham, based on original BASIC code found at

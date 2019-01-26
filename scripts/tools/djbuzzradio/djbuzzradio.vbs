@@ -1,6 +1,7 @@
 ''''Bgetdescription#[VBS] Listen to live internet music.
 ''''Bgetauthor#Hackoo
 ''''Bgetcategory#tools
+''''Bgettags#radio
 Option Explicit
 Dim Title,MyScriptPath,DJBuzzRadio,MyLoop,strComputer,objPing,objStatus,FSO,FolderScript,Icon
 Title = "Radio DJ Buzz Live by © Hackoo 2018 "

@@ -18,6 +18,7 @@
 ::::BgetDescription#Calculates the CRC32 of the input string or file.
 ::::BgetAuthor#Einstein1969
 ::::BgetCategory#library
+::::Bgettags#hash;checksum
 @echo off & setlocal DisableDelayedExpansion
 
 :: Show Syntax

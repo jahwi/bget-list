@@ -3,6 +3,7 @@
 ::::BgetDescription#Game movement engine.
 ::::BgetAuthor#Icarus
 ::::BgetCategory#library
+::::Bgettags#graphics
 
 %multithread_dispatcher%
 	if not exist %temp%\Canvas_3.txt call :map

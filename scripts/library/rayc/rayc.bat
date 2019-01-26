@@ -83,6 +83,7 @@
 ::::BgetDescription#Raycast implementation in pure batch
 ::::BgetAuthor#Einstein1969
 ::::BgetCategory#library
+::::Bgettags#graphics;graphic;3d
 
 @echo off
 :: Multithread dispatcher

@@ -22,6 +22,7 @@
 ::::BgetDescription#Generates .CAB or self-extracting batch script from a source file or folder.
 ::::BgetAuthor#CirothUngol
 ::::BgetCategory#utilities
+::::Bgettags#archive;compress
 
 @ECHO OFF
 SETLOCAL EnableExtensions EnableDelayedExpansion

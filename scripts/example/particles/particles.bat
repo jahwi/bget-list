@@ -3,6 +3,7 @@
 ::::BgetDescription#POC on using macros to generate particles.
 ::::BgetAuthor#Icarus
 ::::BgetCategory#example
+::::Bgettags#graphics;graphic
 
 call :macros
 

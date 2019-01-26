@@ -1,7 +1,7 @@
 ''''Bgetdescription#[VBS] Outputs public IP and other IP details.
 ''''Bgetauthor#Hackoo
 ''''Bgetcategory#tools
-
+''''Bgettags#location;geolocation;find
 
 Option Explicit
 Const Copyright = " © Hackoo © 2016 "

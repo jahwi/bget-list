@@ -4,7 +4,7 @@
 ::::BgetDescription#Natively display independently colored text in batch.
 ::::BgetAuthor#Kenzix
 ::::BgetCategory#library
-::::BgetTags#color
+::::Bgettags#color
 REM To write a text before colored text, use a SET/P-command before the CALL-command.
 REM To write a text between two colored texts, use a SET/P-command between two CALL-commands.
 REM To write a text after all colored texts, use an ECHO-command. If you do not want to write anything after it, use "ECHO." 

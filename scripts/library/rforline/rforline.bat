@@ -3,9 +3,10 @@
 rem ReadFormattedLine.bat: Read a line from keyboard with specific format
 rem Antonio Perez Ayala
 
-::::BgetDescription#Read a line from keyboard with specific format
+::::BgetDescription#Mask keyboard input with specified characters such as the asterisk.
 ::::BgetAuthor#Aacini
 ::::BgetCategory#library
+::::Bgettags#mask
 
 cls
 echo Read a line from keyboard with specific format

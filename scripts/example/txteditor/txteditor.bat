@@ -3,7 +3,7 @@ title txteditor
 ::::BgetDescription#Crude text editor in batch.
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#example
-
+::::Bgettags#notepad
 :redo
 set/p txtoutput=Enter output filename:
 if exist "%txtoutput%.txt" choice /c yn /n /m "%txtoutput%.txt exists. Overwrite? [y/n]"

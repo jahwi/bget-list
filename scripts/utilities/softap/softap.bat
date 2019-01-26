@@ -1,6 +1,7 @@
 ::::BgetDescription#Create a soft wireless access point.  You should have a wired and wireless connection to provide internet.
 ::::BgetAuthor#b00st3d
 ::::BgetCategory#utilities
+::::Bgettags#network;hotspot
 @echo off
 title SoftAP
 CLS 

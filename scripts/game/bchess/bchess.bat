@@ -11,6 +11,7 @@ REM -Stale/Checkmate System
 ::::BgetDescription#batch implementation of chess.
 ::::BgetAuthor#Kolt101
 ::::BgetCategory#game
+::::Bgettags#logic
 
 :: What could be added ::
 REM Add game log to save for later.

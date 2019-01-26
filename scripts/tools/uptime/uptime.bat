@@ -15,7 +15,7 @@
 ::::BgetDescription#returns system uptime
 ::::BgetAuthor#JaCk
 ::::BgetCategory#tools
-:::
+::::Bgettags#awake
 @echo off & setlocal EnableExtensions DisableDelayedExpansion
 
 :::::::::::::::::::::::::::::::::::::::

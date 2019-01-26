@@ -2,9 +2,10 @@
 
 setlocal enableDelayedExpansion
 
-::::BgetDescription#Copy files created within a certain time range on the same day.
+::::BgetDescription#Copy/move files created within a certain time range on the same day.
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#example
+::::Bgettags#paste;move
 
 ::init working folders
 set source=ParentFolder

@@ -15,6 +15,7 @@ Dim args
 ''''Bgetdescription#[VBS] Compress a file or folder into a .CAB.
 ''''Bgetauthor#Jahwi
 ''''Bgetcategory#example
+''''Bgettags#archive
  'usage: cabify "folder to compress" "output folder" "cab_output_filename"
 Set args = Wscript.Arguments
  

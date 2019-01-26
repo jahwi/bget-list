@@ -7,7 +7,7 @@ rem Antonio Perez Ayala
 ::::BgetDescription#Display big text without altering fonts.
 ::::BgetAuthor#Aacini
 ::::BgetCategory#library
-
+::::Bgettags#font;enlarge;large
 call :set/PBigInit
 echo/
 call :set/PBig "THIS IS A TEST"

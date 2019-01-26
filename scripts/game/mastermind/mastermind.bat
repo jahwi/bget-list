@@ -9,6 +9,7 @@
 ::::BgetDescription#Batch Mastermind implementation.
 ::::BgetAuthor#DaveBenham
 ::::BgetCategory#game
+::::Bgettags#guess
 @echo off
 setlocal enableDelayedExpansion
 

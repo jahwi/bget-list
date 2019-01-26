@@ -2,8 +2,9 @@
 title Swords of Morovaith v1.8
 color 0f
 ::::BgetDescription#Medieval-themed game.
-::::BgetAuthor# Ranger77
+::::BgetAuthor#Ranger77
 ::::BgetCategory#game
+::::Bgettags#rpg
 if not exist "%appdata%\Swords of Morovaith.dll" goto NewGame
 < "%appdata%\Swords of Morovaith.dll" (
 set /p flamecape=

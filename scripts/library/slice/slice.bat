@@ -6,7 +6,7 @@
 ::::BgetDescription#Print lines of a text file within a specific range.
 ::::BgetAuthor#Einstein1969
 ::::BgetCategory#library
-
+::::Bgettags#separate;split;divide
 Setlocal EnableExtensions DisableDelayedExpansion
 Set /A b=%~2+0,e=%~3+0,#=0 2>Nul
 If %b% Leq 0 Set "b=1"

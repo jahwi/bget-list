@@ -10,6 +10,7 @@ goto :StartMain
 ::::BgetDescription#Monopoly in batch.
 ::::BgetAuthor#GrellesLicht28
 ::::BgetCategory#game
+::::Bgettags#money;cash
 
 :: Start of setting fields
  :SetFields

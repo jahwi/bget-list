@@ -3,6 +3,7 @@ REM This script generates a html file showing a view of the active hosts in the 
 ::::BgetDescription#This script generates an html file showing a view of the active hosts in the local subnet.
 ::::BgetAuthor#Annikk
 ::::BgetCategory#example
+::::Bgettags#network
 set skipIntro=0
 title NetDisplay
 

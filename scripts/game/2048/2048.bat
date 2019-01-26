@@ -4,6 +4,7 @@
 ::::BgetDescription#2048 game in batch.
 ::::BgetAuthor#JustinQuinn
 ::::BgetCategory#game
+::::Bgettags#numbers;number
 
 @echo off
 TITLE 2048

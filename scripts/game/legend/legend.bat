@@ -45,6 +45,7 @@
 ::::BgetDescription#Legend game in in batch.
 ::::BgetAuthor#RCAProduction
 ::::BgetCategory#game
+::::Bgettags#rpg
 
 
 @ECHO OFF

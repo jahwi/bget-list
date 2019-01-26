@@ -7,7 +7,7 @@
 ::::BgetDescription#Hide input in asterisks.
 ::::BgetAuthor#Carlos
 ::::BgetCategory#example
-
+::::Bgettags#password;mask
    :::::::::::::BEGIN OF CODE:::::::::::::   
    @Echo Off   
    :HInput

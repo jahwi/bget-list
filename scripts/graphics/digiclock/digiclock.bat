@@ -18,6 +18,7 @@ setlocal enableextensions enabledelayedexpansion
 ::::BgetDescription#Digital clock.
 ::::BgetAuthor#Aacini
 ::::BgetCategory#graphics
+::::Bgettags#time;date;day
 
 set /a "format=12"
 ::

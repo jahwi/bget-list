@@ -10,6 +10,7 @@ rem // something like this to preserve blank lines:
 ::::BgetDescription#Get the contents of the clipboard.
 ::::BgetAuthor#Rojo
 ::::BgetCategory#tools
+::::Bgettags#copy;paste
 for /f "delims=" %%I in ('%getclip% ^| findstr /n "^"') do (
     setlocal enabledelayedexpansion
     set "line=%%I" & set "line=!line:*:=!"

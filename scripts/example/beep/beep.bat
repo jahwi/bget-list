@@ -2,6 +2,7 @@
 ::::BgetDescription#Causes a beep.
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#example
+::::Bgettags#sound
 ECHO 
 
 ~bp

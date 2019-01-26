@@ -29,6 +29,7 @@
 ::::BgetDescription#Tool for carrying out advanced renaming operations.
 ::::BgetAuthor#DaveBenham
 ::::BgetCategory#utilities
+::::Bgettags#rename;renamer
 
 ::
 ::============ Documentation ===========

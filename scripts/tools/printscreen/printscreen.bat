@@ -8,6 +8,7 @@ Mode con Cols=14 lines=1
 ::::BgetDescription#Printscreen script. Requires .NET Framework.
 ::::BgetAuthor#Delmar Grande/Hackoo
 ::::BgetCategory#tools
+::::Bgettags#screenshot;screencap;screencapture
 title PrintScreen by Delmar Grande and modified by Hackoo
 Rem Just adding a little timeout to organise our screenshot
 Timeout /T 4 /Nobreak>nul

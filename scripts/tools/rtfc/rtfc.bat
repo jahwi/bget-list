@@ -2,6 +2,7 @@
 ::::BgetDescription#Monitors a file and outputs changed lines to the console.
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#tools
+::::Bgettags#compare;file compare;compare file;compare files
 setlocal enabledelayedexpansion
 
 ::check for user errors

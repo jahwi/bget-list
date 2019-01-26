@@ -5,7 +5,7 @@ color 1e
 ::::BgetDescription#Adventure game in batch
 ::::BgetAuthor#howk
 ::::BgetCategory#game
-
+::::Bgettags#rpg
 :MENU
 cls
 echo.

@@ -2,6 +2,7 @@
 ::::BgetDescription#Query free disk space of a drive
 ::::BgetAuthor#skaybay
 ::::BgetCategory#tools
+::::Bgettags#utility
 setlocal enabledelayedexpansion
 set drive=%~1
 if not defined drive (

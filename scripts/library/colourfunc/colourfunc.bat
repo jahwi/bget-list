@@ -2,7 +2,7 @@
 ::::BgetDescription#Natively display independently colored text in batch.
 ::::BgetAuthor#DaveBenham
 ::::BgetCategory#library
-::::BgetTags#color;colour
+::::Bgettags#color;colour
 setlocal
 
 call :initColorPrint

@@ -3,6 +3,7 @@
 ::::BgetDescription#test your luck in this clickable slots machine game.[Win10 Only]
 ::::BgetAuthor#Icarus
 ::::BgetCategory#game
+::::Bgettags#gamble;bet
 
 if "%~1" neq "" goto :%~1
 

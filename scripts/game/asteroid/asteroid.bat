@@ -3,6 +3,7 @@
 ::::BgetDescription#[WIN 10 ONLY] Avoid asteroids falling down to earth.
 ::::BgetAuthor#LowSun
 ::::BgetCategory#game
+::::Bgettags#rock;dodge
 <!-- : Begin batch script
 @ECHO OFF
 SETLOCAL ENABLEDELAYEDEXPANSION

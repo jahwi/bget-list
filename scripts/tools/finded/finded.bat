@@ -3,7 +3,7 @@
 ::::BgetDescription#Script to find empty directories.
 ::::BgetAuthor#mrkskwsnck
 ::::BgetCategory#tools
-
+::::Bgettags#folder;folders
 REM Batch parameters
 REM %1 => Mandatory path to a directory
 REM %2 => An optional callback, executed for any empty directory

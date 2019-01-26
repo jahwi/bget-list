@@ -3,7 +3,7 @@
 ::::BgetDescription#Convert any program into a script you can put in your batch script.
 ::::BgetAuthor#Lucas
 ::::BgetCategory#utilities
-
+::::Bgettags#wrapper;wrap;container
 if "%~1"=="" goto help
 if /i "%~1"=="/s" echo /S cannot be before file name. & echo. & goto help
 if /i "%~1"=="/h" goto help

@@ -3,7 +3,7 @@
 ::::BgetDescription#Algorithmically draws an animated rotating 2D star.[Win10 Only]
 ::::BgetAuthor#Icarus
 ::::BgetCategory#graphics
-
+::::Bgettags#shapes;shape
 rem these macros are LINE, PLOT, SIN, COS, ABS
 call :macros
 

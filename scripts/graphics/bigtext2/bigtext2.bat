@@ -7,6 +7,7 @@
 ::::BgetDescription#Display a given sentence in large text made up of smaller characters.
 ::::BgetAuthor#wasatchwizard
 ::::BgetCategory#graphics
+::::Bgettags#font
 
 
 :s_start

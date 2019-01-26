@@ -2,6 +2,7 @@
 ::::BgetDescription#Find Built in Windows 10 Key then Set Key and Activate.
 ::::BgetAuthor#Rbley
 ::::BgetCategory#utilities
+::::Bgettags#code
 SetLocal EnableDelayedExpansion 
 set count=0 
 for /F "delims=" %%a in ('wmic path softwarelicensingservice get oa3xoriginalproductkey') do ( 

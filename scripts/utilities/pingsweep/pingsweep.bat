@@ -1,6 +1,7 @@
 ::::BgetDescription#Ping sweep the local network.
 ::::BgetAuthor#b00st3d
 ::::BgetCategory#utilities
+::::Bgettags#subnet
 @echo off
 cd %~dp0
 setlocal enabledelayedexpansion

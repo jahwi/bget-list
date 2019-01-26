@@ -10,6 +10,7 @@
 ::::BgetDescription#CSV.BAT allows interaction with CSV or TSV or similar files with SQL syntax.
 ::::BgetAuthor#Rojo
 ::::BgetCategory#library
+::::Bgettags#row;column
 @echo off
 setlocal enabledelayedexpansion
 

@@ -8,6 +8,7 @@ rem http://www.dostips.com/forum/viewtopic.php?f=3&t=5028&p=45842#p45842
 ::::BgetDescription#Another analog clock.
 ::::BgetAuthor#Aacini
 ::::BgetCategory#graphics
+::::Bgettags#time
 
 rem Size of clock face: use same values in X & Y for square fonts (like bitmap font 8x8)
 rem Set to different values for oval face or to adjust aspect ratio; for example, in Lucida Console 8x14 use xres=70, yres=40

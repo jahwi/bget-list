@@ -3,6 +3,7 @@ mode 49,49
 ::::BgetDescription#An analog clock that displays the current time. [Win10 Only]
 ::::BgetAuthor#Icarus
 ::::BgetCategory#graphics
+::::Bgettags#time
 call :macros
 
 	set /a "PI=(35500000/113+5)/10, PI_div_2=(35500000/113/2+5)/10, PIx2=2*PI, PI32=PI+PI_div_2"
