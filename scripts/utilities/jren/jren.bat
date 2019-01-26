@@ -27,7 +27,7 @@
 ::    1.0  2014-11-30: Initial release
 
 ::::BgetDescription#Tool for carrying out advanced renaming operations.
-::::BgetAuthor#dbenham
+::::BgetAuthor#DaveBenham
 ::::BgetCategory#utilities
 
 ::

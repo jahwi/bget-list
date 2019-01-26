@@ -1,6 +1,6 @@
 @echo off & setlocal EnableDelayedExpansion
 mode 49,49
-::::BgetDescription#An analog clock that displaus the curent time [Win10 Only]
+::::BgetDescription#An analog clock that displays the current time. [Win10 Only]
 ::::BgetAuthor#Icarus
 ::::BgetCategory#graphics
 call :macros

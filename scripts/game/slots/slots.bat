@@ -1,6 +1,6 @@
 @echo off & setlocal enableDelayedExpansion & mode 50,50
 
-::::BgetDescription#test your luck in this slots machine clickable game.[Win10 Only]
+::::BgetDescription#test your luck in this clickable slots machine game.[Win10 Only]
 ::::BgetAuthor#Icarus
 ::::BgetCategory#game
 

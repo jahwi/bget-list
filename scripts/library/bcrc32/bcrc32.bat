@@ -15,7 +15,7 @@
 :: Rif: http://www.dostips.com/forum/viewtopic.php?p=30336#p30336
 ::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::::BgetDescription#C3C32 batch implementation.
+::::BgetDescription#Calculates the CRC32 of the input string or file.
 ::::BgetAuthor#Einstein1969
 ::::BgetCategory#library
 @echo off & setlocal DisableDelayedExpansion

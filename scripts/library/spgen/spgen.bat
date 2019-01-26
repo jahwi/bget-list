@@ -1,6 +1,6 @@
 @echo off & setlocal enableDelayedExpansion
 
-::::BgetDescription#Sheep-dog game movement engine.
+::::BgetDescription#Game movement engine.
 ::::BgetAuthor#Icarus
 ::::BgetCategory#library
 

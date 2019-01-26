@@ -1,7 +1,7 @@
 @echo off
 color 0c
 title TOTAL WAR!!!
-::::BgetDescription#Destroy other countries in this Wweirdly interesting batch game.
+::::BgetDescription#Destroy other countries in this Weirdly interesting batch game.
 ::::BgetAuthor#Vincent Allain
 ::::BgetCategory#game
 echo.

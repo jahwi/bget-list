@@ -1,5 +1,5 @@
 @echo off & setlocal enableDelayedExpansion
-::::BgetDescription#Algorithmically draws and anumates a fidget spinner.[Win10 Only]
+::::BgetDescription#Algorithmically draws and animates a fidget spinner.[Win10 Only]
 ::::BgetAuthor#Icarus
 ::::BgetCategory#graphics
 

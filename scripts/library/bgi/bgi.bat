@@ -1,6 +1,6 @@
 "Batch-BGI" Borland Graphics Interface library for Windows Batch files
 Written by Antonio Perez Ayala aka Aacini
-::::BgetDescription#BGI-like library for batch files.
+::::BgetDescription#Borland Graphics Interface library for Windows Batch files
 ::::BgetAuthor#Aacini
 ::::BgetCategory#library
 BGI Reference: http://www.cs.colorado.edu/~main/bgi/doc/
