@@ -18,3 +18,5 @@
 [getcookie] [[VBS] Extracts a cookie from a website.] [26/01/2019]
 [kart] [Add "Kill all non-responsive tasks" button to the context menu.] [14/02/2019]
 [boilerplate] [Generates Windows scripts based on templates.] [14/02/2019]
+[resetnet] [Reset your network stack entirely without rebooting.] [15/02/2019]
+[portable] [Contains batch launchers for portable versions of various programs.] [15/02/2019]
