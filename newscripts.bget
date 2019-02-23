@@ -20,3 +20,4 @@
 [boilerplate] [Generates Windows scripts based on templates.] [14/02/2019]
 [resetnet] [Reset your network stack entirely without rebooting.] [15/02/2019]
 [portable] [Contains batch launchers for portable versions of various programs.] [15/02/2019]
+[flock] [Simple folder locker using user permissions.] [23/02/2019]
