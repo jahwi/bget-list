@@ -1,6 +1,6 @@
 @echo off
 
-::::BgetDescription#SImple folder locker using user permissions.
+::::BgetDescription#Simple folder locker using user permissions.
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#utilities
 

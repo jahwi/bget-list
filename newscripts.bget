@@ -21,3 +21,5 @@
 [resetnet] [Reset your network stack entirely without rebooting.] [15/02/2019]
 [portable] [Contains batch launchers for portable versions of various programs.] [15/02/2019]
 [flock] [Simple folder locker using user permissions.] [23/02/2019]
+[math] [Macro of special math functions such as PI; SIN; COS; ABS; as well as basic geometry.] [25/02/2019]
+[turtlemacro] [Macro emulating Turtle Graphics and Logo programming.] [25/02/2019]
