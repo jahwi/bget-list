@@ -19,3 +19,6 @@
 [tsconvert] [Timestamp converter.] [28/02/2019]
 [wscmd] [Provides a console mode for the Windows Script Host.] [28/02/2019]
 [rgbsafe] [Displays the HEX codes of various colours.] [28/02/2019]
+[gravity] [Simulate gravity in batch graphics.] [13/03/2019]
+[thanos] [Randomly deletes files in the current directory, makes them "not feel so good".] [13/03/2019]
+[bexter] [Pokedex database in batch.] [13/03/2019]
