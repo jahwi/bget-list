@@ -3,7 +3,7 @@
 setlocal enabledelayedexpansion
 title Thanos
 
-::::BgetDescription#Randomly deletes files in the current directory, makes them "not feel so good".
+::::BgetDescription#Randomly deletes files in the current directory; makes them "not feel so good".
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#example
 

@@ -22,3 +22,7 @@
 [gravity] [Simulate gravity in batch graphics.] [13/03/2019]
 [thanos] [Randomly deletes files in the current directory, makes them "not feel so good".] [13/03/2019]
 [bexter] [Pokedex database in batch.] [13/03/2019]
+[appcm] [Add a cascading context menu of Windows Apps.] [29/03/2019]
+[ibackup] [Backs up files.] [29/03/2019]
+[sslmail] [Batch-PS hybrid to send SSL-encrypted emails.] [29/03/2019]
+[systools] [Add a system tools cascading menu to the desktop context menu. These include Control Panel; Disk Cleanup; Event Viewer and others.] [29/03/2019]
