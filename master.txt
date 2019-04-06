@@ -186,4 +186,5 @@
 [#],xorcrypt,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/example/xorcrypt/xorcrypt.bat,XOR encryption example.,xorcrypt.bat,8ca67053ac383c4d5cbe855b3c9e53f8,Meerkat,example,24/01/2019 09:45 PM,xorcrypt,
 [#],yahtzee,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/yahtzee/yahtzee.bat,YAHTZEE in batch.,yahtzee.bat,5af9f4b419efe54b70ff0abc6208769b,aGerman,game,24/01/2019 09:45 PM,yahtzee,
 [#],ytdown,https://codeload.github.com/Lettly/Youtube-Download-Batch/zip/master,Download videos from Youtube,ytdown.zip,External-File-No-Hash-Available,Lettly,utilities,Nil,ytdown
+[#],ziggurat,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/ziggurat/ziggurat.cab,Don the robes of the high priest and defend your people against various monsters.,ziggurat.cab,83b3f8a96f35b4cdac75da7f63ba0157,Lowsun,game,06/04/2019 10:16 PM,ziggurat,
 [#],zline,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/zline/zline.bat,graphical zombie shooter feat Bario.[Win10 Only],zline.bat,75b8f8800f4da8bd65a19a52d2a14940,Icarus,game,24/01/2019 09:45 PM,zline,
