@@ -6,3 +6,5 @@
 [sslmail] [Batch-PS hybrid to send SSL-encrypted emails.] [29/03/2019]
 [systools] [Add a system tools cascading menu to the desktop context menu. These include Control Panel; Disk Cleanup; Event Viewer and others.] [29/03/2019]
 [ziggurat] [Don the robes of the high priest and defend your people against various monsters.] [06/04/2019]
+[colorbox] [easily create colourful textboxes in the console window.] [18/06/2019]
+[jrepl] [Perform a global regular expression search and replace operation on each line of ASCII input from stdin and prints the result to stdout.] [18/06/2019]
