@@ -2,7 +2,7 @@
 #https://github.com/jahwi/bget 
 
 #this file is delimited thus:
-# [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5 checksum, Author, Category, Last Modified, tags,
+# [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author
 [#],test,https://raw.githubusercontent.com/jahwi/bget-list/master/test.bat,The Bget test file,test.bat,d20e619cbcdc632a9bec34d2cd46cb78,Jahwi,test files,Infinity,testfile
 [#],2048,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/2048/2048.bat,2048 game in batch.,2048.bat,05848f5c9729ee53ac6aacf7b8f331bf,JustinQuinn,game,26/01/2019 03:50 PM,numbers;number,
 [#],2dstar,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/graphics/2dstar/2dstar.bat,Algorithmically draws an animated rotating 2D star.[Win10 Only],2dstar.bat,969b27e4c794d3cc1a515aedd53c9560,Icarus,graphics,26/01/2019 03:51 PM,shapes;shape,
@@ -43,6 +43,7 @@
 [#],cmdpie,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/cmdpie/cmdpie.bat,Pie is a simple-in-use markup language used for writing documentation for batch scripts in Windows DOS.,cmdpie.bat,7d015558efa95f1d12bf5125078f8517,Siberia-man,tools,26/02/2019 08:33 PM,cmdpie,
 [#],cmds,https://codeload.github.com/ITCMD/CMDS/zip/master,View running cmd instances. Recommended for Windows10.,cmds.zip,External-File-No-Hash-Available,Lucas,tools,Nil,cmds
 [#],cmdtools,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/cmdtools/cmdtools.bat,Mega-menu of useful scripts.,cmdtools.bat,b06fa70e450685e31dff7cdd7a0db522,Logicbomb,tools,26/01/2019 04:20 PM,menu;bundle;login,
+[#],colorbox,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/colorbox/colorbox.bat,easily create colourful textboxes in the console window.,colorbox.bat,2a314a4c044037fa07561e14bcca431e,Icarus,library,15/06/2019 10:20 PM,colorbox,
 [#],colos,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/colos/colos.cab,[Win 10] Mediative colour game in batch.,colos.cab,831c0f3b17e1e3ad3761d04e68eea2bd,LowSun,game,26/01/2019 05:21 PM,color,
 [#],colourfunc,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/colourfunc/colourfunc.bat,Natively display independently colored text in batch.,colourfunc.bat,2d72dea1fb7415aa60d62f386218865d,DaveBenham,library,26/01/2019 04:18 PM,color;colour,
 [#],colourtext,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/colourtext/colourtext.bat,Natively display independently colored text in batch.,colourtext.bat,63482f3200d8e9fab23f2ae82dabe63a,Kenzix,library,26/01/2019 04:18 PM,color,
@@ -88,6 +89,7 @@
 [#],irrescue,https://codeload.github.com/diogo-fernan/ir-rescue/zip/master,Collect a myriad of forensic data from 32-bit and 64-bit Windows systems,irrescue.zip,External-File-No-Hash-Available,diogo-fernan,security,Nil,irrescue
 [#],j,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/dev-tools/j/j.bat,Facilitates batch-file automation of actions in Java.,j.bat,45ba07935785e7dda6c6acbec350772a,Siberia-Man,dev-tools,26/02/2019 08:08 PM,j,
 [#],jren,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/jren/jren.bat,Tool for carrying out advanced renaming operations.,jren.bat,f1d0dc01507d9fceb0add41930fb5533,DaveBenham,utilities,26/01/2019 04:54 PM,rename;renamer,
+[#],jrepl,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/jrepl/jrepl.bat,Perform a global regular expression search and replace operation on each line of ASCII input from stdin and prints the result to stdout.,jrepl.bat,21d8ee60878284e755bc7aa06538988b,DaveBenham,library,15/06/2019 10:34 PM,jrepl,
 [#],jtimestamp,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/jtimestamp/jtimestamp.bat,Computes and displays a formatted timestamp.,jtimestamp.bat,9573d47f270b3afcc8cae18a2c303c7f,DaveBenham,library,24/01/2019 09:21 PM,jtimestamp,
 [#],jvcsort,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/example/jvcsort/jvcsort.bat,Copy/move files created within a certain time range on the same day.,jvcsort.bat,e725324d865ff0cdc1d983b0a360e22d,Jahwi,example,26/01/2019 04:55 PM,paste;move,
 [#],kart,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/kart/kart.bat,Add "Kill all non-responsive tasks" button to the context menu.,kart.bat,73e1d6bb5d17fd5e7bab7b7dfe5bfcf5,FreeBooter,utilities,12/02/2019 06:38 PM,kart,
