@@ -1,5 +1,11 @@
 #bget master file 
-#https://github.com/jahwi/bget 
+#https://github.com/jahwi/bget
+
+#-----------------------------------------------------
+#                     CHANGELOG
+#19-JUN-2019: Changed 'dev-tools' category to 'devtools'.
+#20-JUN-2019: Added category, last modified, and tags to the descriptor line.
+#-----------------------------------------------------
 
 #this file is delimited thus:
 # [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author, Category, Last Modified, tags
@@ -74,6 +80,7 @@
 [#],fsbox,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/fsbox/fsbox.bat,Create sandbox for UNIX like filesystem structure,fsbox.bat,24b2934051f756b102a2692d0bc92cc5,Siberia-man,tools,26/02/2019 08:27 PM,fsbox,
 [#],fspin,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/graphics/fspin/fspin.bat,Algorithmically draws and animates a fidget spinner.[Win10 Only],fspin.bat,4112b1a7e0789b945c9b5a5dd4a4d6d4,Icarus,graphics,24/01/2019 09:18 PM,fspin,
 [#],ftpchat,https://codeload.github.com/ITCMD/ftpchat/zip/master,Super advanced ftp-based chat program in batch,ftpchat.zip,External-File-No-Hash-Available,Lucas,utilities,Nil,ftpchat
+[#],gatr,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/gatr/gatr.cab,A short guided interaction about watchinng the rain.,gatr.cab,1f814a8f0648d2b9b4ea0cc118150b57,Lowsun,game,19/06/2019 04:49 PM,gatr,
 [#],getclip,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/getclip/getclip.bat,Get the contents of the clipboard.,getclip.bat,dd34cc229ee0d6f17ad296e1c17ac07f,Rojo,tools,26/01/2019 04:32 PM,copy;paste,
 [#],getcookie,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/getcookie/getcookie.vbs,[VBS] Extracts a cookie from a website.,getcookie.vbs,62909d4e4fc885a4ceccbd38a9d96611,Kul-Tigin,tools,26/01/2019 01:07 AM,getcookie,
 [#],gplot,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/gplot/gplot.bat,Crude quadratic graph plotter.,gplot.bat,cdf48c0ab353718e0faeebaf3e8acb96,Jahwi,library,24/01/2019 09:19 PM,gplot,
