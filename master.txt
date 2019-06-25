@@ -4,7 +4,7 @@
 #-----------------------------------------------------
 #                     CHANGELOG
 #19-JUN-2019: Changed 'dev-tools' category to 'devtools'.
-#20-JUN-2019: Added category, last modified, and tags to the descriptor line.
+#20-JUN-2019: Added category, last modified, and tags to the delimiter description.
 #-----------------------------------------------------
 
 #this file is delimited thus:
@@ -136,11 +136,13 @@
 [#],reactinit,https://codeload.github.com/mlang251/ReactInit/zip/master,A batch script for initializing React projects on Windows,reactinit.zip,External-File-No-Hash-Available,mlang251,devtools,Nil,reactinit
 [#],regutils,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/regutils/regutils.cab,collection of miscellaneous registry tweaks.,regutils.cab,1cdf2ed1020b80d224f234cff3549993,FreeBooter,utilities,28/11/2018 07:10 AM,regutils,
 [#],rempty,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/rempty/rempty.bat,Removes Empty Files/SubDirectories from the defaulted/given path/paths.,rempty.bat,74c96284a28b5f06f4c5d016dbb85885,JaCk,tools,24/01/2019 09:30 PM,rempty,
+[#],repairwmi,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/repairwmi/repairwmi.bat,Helps repair WMI issues.,repairwmi.bat,b0ef14e2e51c1d810a56c01cb30f91e0,FreeBooter,utilities,24/06/2019 04:47 PM,repairwmi,
 [#],resetnet,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/resetnet/resetnet.cab,Reset your network stack entirely without rebooting.,resetnet.cab,3c17b82a46605cef0461e5a4cd7a5f9c,dannyvoid,utilities,15/02/2019 09:13 PM,resetnet,
 [#],rforline,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/rforline/rforline.bat,Mask keyboard input with specified characters such as the asterisk.,rforline.bat,ab05cdd1dc72cb52e952323d6eba9af8,Aacini,library,26/01/2019 04:40 PM,mask,
 [#],rgbsafe,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/rgbsafe/rgbsafe.hta,Displays the HEX codes of various colours.,rgbsafe.hta,7b43463796a03330db1c2b8d019198c3,Siberia-man,tools,28/02/2019 04:16 PM,rgbsafe,
 [#],rtfc,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/rtfc/rtfc.bat,Monitors a file and outputs changed lines to the console.,rtfc.bat,cb7d3eade1421e0939a9804f2e588651,Jahwi,tools,26/01/2019 04:39 PM,compare;filecompare;comparefile;comparefiles,
 [#],sbt,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/sbt/sbt.cab,Super Batch Tetris.,sbt.cab,38316ee5995c6f841f98705bb21f3f47,RetroKitty,game,06/12/2018 04:49 AM,sbt,
+[#],sdelete,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/sdelete/sdelete.bat,Adds a secure delete option to context menu.,sdelete.bat,910ce67d71ac6596a8ccae244926252f,FreeBooter,utilities,25/06/2019 11:19 AM,sdelete,
 [#],sendmail,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/example/sendmail/sendmail.vbs,[VBS] Send an email using VBScript.,sendmail.vbs,a0481c776ea93706cf467a44931f96c5,dmarietta,example,20/12/2018 07:57 PM,sendmail,
 [#],setaengine,https://codeload.github.com/Honguito98/Seta-Engine-for-Batch-games/zip/master,A collection of several game engines for batch scripting.,seta.zip,External-File-No-Hash-Available,Honguito98,graphics,Nil,setaengine
 [#],setcmd,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/library/setcmd/setcmd.cab,.bashrc emulation in batch; providing a file from which custom global variables can be set.,setcmd.cab,2dcd1706fd83525edcc6e439677eacb3,Siberia-man,library,26/02/2019 08:58 PM,setcmd,
