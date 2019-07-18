@@ -3,7 +3,7 @@ Cls & Color 1A
 
 Cd %systemroot%\system32
 ::::BgetDescription#Add 'Pin to start menu' to the context menu.
-::::BgetAuthor#FreBooter
+::::BgetAuthor#FreeBooter
 ::::BgetCategory#utilities
 
 
