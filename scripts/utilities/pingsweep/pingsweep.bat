@@ -61,7 +61,7 @@ title starting %%a of 255
 echo starting %%a of 255
 wscript.exe %temp%\invisible.vbs working\%%a.bat
 )
-del /q %temp%invisible.vbs
+del /q %temp%\invisible.vbs
 rd /s /q working
 cls
 echo online addresses:
