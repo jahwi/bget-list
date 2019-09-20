@@ -9,3 +9,5 @@
 [lessjs] [A way to run the LESS.js compiler on Windows.] [27/08/2019]
 [nvmw] [Simple Node Version Manager for Windows.] [27/08/2019]
 [vsportable] [Make your Visual Studio Portable.] [27/08/2019]
+[baseconv] [Converts strings and numbers from one base to another.] [20/09/2019]
+[numInfo] [Shows the properties of a number e.g. its binary; hexadecimal equivalents as wel as bitwise operations.] [20/09/2019]
