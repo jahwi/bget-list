@@ -1,6 +1,6 @@
 @echo off & setlocal enableDelayedExpansion
 
-::::BgetDescription#Shows the properties of a number e.g. its binary; hexadecimal equivalents as wel as bitwise operations.
+::::BgetDescription#Shows the properties of a number e.g. its binary; hexadecimal equivalents as well as bitwise operations.
 ::::BgetAuthor#Icarus
 ::::BgetCategory#example
 ::::Bgettags#number; info
