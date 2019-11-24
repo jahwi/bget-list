@@ -1,13 +1,16 @@
 @if (@X)==(@Y) @end /* Harmless hybrid line that begins a JScript comment
 @goto :Batch
 
+
 ::::BgetDescription#Perform a global regular expression search and replace operation on each line of ASCII input from stdin and prints the result to stdout.
 ::::BgetAuthor#DaveBenham
 ::::BgetCategory#library
-
 ::JREPL.BAT by Dave Benham
 ::/History
 ::
+::    2019-09-13 v8.4: Bug fix - /K,/R did not work with /EXC,/INC as of v8.0
+::    2019-07-16 v8.3: Documentation correction - Binary data with null bytes may
+::                     be read via ADO.
 ::    2019-06-05 v8.2: /RTN bug fix - preserve Unicode by using CHCP 65001/utf-8
 ::                     to transfer value to variable unless /XFILE used.
 ::    2019-05-19 v8.1: Add /VT to enable Virtual Terminal ANSI escape sequences.
@@ -162,7 +165,10 @@
 :::            Replace substitution pattern syntax is fully documented at
 :::            https://msdn.microsoft.com/en-US/library/efy6s3e6.aspx
 :::
-:::  Binary input with NULL bytes requires the /M option.
+:::  Binary input with NULL bytes requires either the /M option, or the file
+:::  must be read using ADO by appending the character set name to the file name.
+:::  For example, if your input is ASCII containing null bytes, then you must
+:::  use:   /F "input.txt" /M   or   /F "input.txt|ascii".
 :::
 :::  The meaning of extended ASCII byte codes >= 128 (0x80) is dependent on the
 :::  active code page. Extended ASCII within arguments and variables may require
@@ -353,6 +359,9 @@
 :::            local system. Appending |NB to the |CharSet normally has no impact.
 :::            The |NB No BOM flag is only useful when combined with /O -.
 :::
+:::            Note: Input containing null bytes cannot be read unless ADO is
+:::                  used, or else the /M option must be used.
+:::
 :::      /H  - Highlight all replaced or matched text in the output using the
 :::            strings defined by /HON and /HOFF.
 :::
@@ -541,8 +550,9 @@
 :::            The /M option is incompatible with the /A option unless the /S
 :::            option is also present.
 :::
-:::            Note: If working with binary data containing NULL bytes,
-:::                  then the /M option must be used.
+:::            Note: The /M option is one method to read binary data with null
+:::                  bytes. The other option is to use ADO to read the file.
+:::                  See the /F option for more info.
 :::
 :::      /MATCH - Search and write out each matching string on a new line,
 :::            discarding any non-matching text. The Replace argument is
@@ -1346,7 +1356,7 @@
 :::          3 = JScript runtime error
 ::/VERSION
 :::
-:::  JREPL.BAT version 8.2 was written by Dave Benham, and originally posted at
+:::  JREPL.BAT version 8.4 was written by Dave Benham, and originally posted at
 :::  http://www.dostips.com/forum/viewtopic.php?f=3&t=6044
 ::/
 
@@ -1358,7 +1368,7 @@ setlocal disableDelayedExpansion
 if .%2 equ . call :help "%~1" && exit /b 0 || call :exitErr "Insufficient arguments"
 
 :: Define options
-set ^"/options= /A: /APP: /B: /C: /D:":" /E: /EXC:"" /F:"" /H: /HON:"\x1B[7m" /HOFF:"\x1B[0m" /HU: /I:^
+set ^"/options= /A: /APP: /B: /C: /D:":" /DBUG: /E: /EXC:"" /F:"" /H: /HON:"\x1B[7m" /HOFF:"\x1B[0m" /HU: /I:^
                 /INC:"" /J: /JBEG:"" /JBEGLN:"" /JEND:"" /JENDLN:"" /JLIB:"" /JMATCH: /JMATCHQ: /JQ:^
                 /K:"" /L: /M: /MATCH: /N:0 /O:"" /OFF:0 /P:"" /PFLAG:"g" /PREPL:"" /R:"" /RTN:"" /S:""^
                 /T:"none" /TFLAG:"" /U: /UTF: /V: /VT: /X: /XBYTES: /XBYTESOFF: /XFILE: /XSEQ: /XREG:"" ^"
@@ -2391,7 +2401,7 @@ try {
       if (str1!=str2) _g.rtn=0;
     } else if (keep||reject){
       var match, arr, filterResult, post, pre=new Array();
-      var cmd='while(!input.AtEndOfStream&&!quit){str1=input.ReadLine();';
+      var cmd='while(!input.AtEndOfStream&&!quit){match=reject;str1=input.ReadLine();';
       if ( _g.incBlock.length || _g.excBlock.length || lnWidth
            || _g.begLn || _g.endLn || env(env('/V')?env('/JEND'):'/JEND')
          ) cmd+='ln++;';
@@ -2407,7 +2417,7 @@ try {
       if (jquick) {
         cmd+='{str1=str1.replace(search,repl);match=_g.matchOffset!=null?!reject:reject;}';
       } else {
-        cmd+='if ((arr=search.exec(str1))!==null){match=!reject;_g.matchOffset=arr.index}else match=reject;';
+        cmd+='if ((arr=search.exec(str1))!==null){match=!reject;_g.matchOffset=arr.index}';
       }
       if (_g.endLn) cmd += 'str1=_g.endLn(str1);';
       cmd+='if (str1!==false && match) {_g.rtn=0;';
@@ -2416,7 +2426,8 @@ try {
       if (context[1]) cmd+='post=context[1];}else if(post-->0){'+writeMatch('str1','ln',lnPad,'""',offWidth);
       if (context[0]) cmd+='}else{pre.unshift(str1);if(pre.length>context[0])pre.pop();';
       cmd+='}}';
-      eval(cmd);
+      if (env('/DBUG')) output.WriteLine(cmd);
+      else eval(cmd);
     } else {
       var cmd='while(!input.AtEndOfStream&&!quit){str2=str1=input.ReadLine();';
       if ( _g.incBlock.length || _g.excBlock.length || lnWidth
@@ -2441,7 +2452,8 @@ try {
         cmd+='if (str1!=str2) _g.rtn=0;';
       }
       cmd+='}'
-      eval(cmd);
+      if (env('/DBUG')) output.WriteLine(cmd);
+      else eval(cmd);
     }
   }
 
