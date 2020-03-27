@@ -3,7 +3,7 @@
 ::getprocess v0.1
 ::by Jahwi in 2019
 
-::::BgetDescription#Get a processes parent or child processes using its PID.
+::::BgetDescription#Get a process' parent or child processes using its PID.
 ::::BgetAuthor#Jahwi
 ::::BgetCategory#utilities
 
