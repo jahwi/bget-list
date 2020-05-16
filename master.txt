@@ -1,13 +1,13 @@
 #bget master file 
 #https://github.com/jahwi/bget
 
-#-----------------------------------------------------
+#--------------------------------------------------------------------------------------
 #                     CHANGELOG
 #19-JUN-2019: Changed 'dev-tools' category to 'devtools'.
 #20-JUN-2019: Added category, last modified, and tags to the delimiter description.
 #03-OCT-2019: Added script size to the delimiter description.
 #25-OCT-2019: Renamed graphicsmacro to graphics.
-#-----------------------------------------------------
+#--------------------------------------------------------------------------------------
 
 #this file is delimited thus:
 # [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author, Category, Last Modified, tags, [script size],
@@ -79,6 +79,7 @@
 [#],depop,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/depop/depop.cab,Storymode shooter batch game.,depop.cab,8aab3e3b0b5720d06e5c489056f4125f,FaceRadiation,game,26/01/2019 05:21 PM,rpg,13923788
 [#],df,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/df/df.bat,Query free disk space of a drive,df.bat,f076f8173287e1648088f71a580cd2e1,skaybay,tools,26/01/2019 04:11 PM,utility,747
 [#],digiclock,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/graphics/digiclock/digiclock.bat,Digital clock.,digiclock.bat,04904375519da5ec356d236c32ecf832,Aacini,graphics,26/01/2019 04:33 PM,time;date;day,2973
+[#],dino,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/dino/dino.bat,Batch implementation of the Google Dinosaur game.,dino.bat,56d7db45a28312c2c4e69548e8615e52,LowSun,game,16/05/2020 11:01 PM,dino,4505
 [#],dismman,https://codeload.github.com/ITCMD/DISM-Manager/zip/master,Script to help manage Dism and WinPE. Recommended for Windows10.,dismman.zip,External-File-No-Hash-Available,Lucas,utilities,Nil,dismman,Nil
 [#],djbuzzradio,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/djbuzzradio/djbuzzradio.vbs,[VBS] Listen to live internet music.,djbuzzradio.vbs,faf5865d09782d09f45dc38ed2ebe66e,Hackoo,tools,26/01/2019 05:08 PM,radio,6845
 [#],dotv,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/dotv/dotv.cab,a batch file rougelike.,dotv.cab,55f6fc7cd0ea3bba74e275bbf17e54fd,Shubshub,game,03/12/2018 08:50 AM,dotv,12771
@@ -141,6 +142,7 @@
 [#],miscscripts,https://codeload.github.com/M-Depoorter/Batch/zip/master,Miscellaneous collection of batch files.,miscbat.zip,External-File-No-Hash-Available,M-Depoorter,tools,Nil,miscscripts,Nil
 [#],monopoly,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/monopoly/monopoly.bat,Monopoly in batch.,monopoly.bat,485a7afc325eb8b9cb75b0f4c494d18f,GrellesLicht28,game,26/01/2019 04:49 PM,money;cash,172597
 [#],mothersday,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/game/mothersday/mothersday.cab,Simulate being a mother 3 days till mothers day.,mothersday.cab,c6aee7df5a0304c4f239d867e8a82f5d,SirJosh3917,game,06/12/2018 04:58 AM,mothersday,10204
+[#],ndebug,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/devtools/ndebug/ndebug.vbs,[VBS] DOS DEBUG clone mainly for binary file editing [as a hex editor].,ndebug.vbs,33de1528d0c81f59a8150953e9bc4c53,jcunews,devtools,16/05/2020 10:55 PM,ndebug,17219
 [#],netcalc,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/tools/netcalc/netcalc.cab,Calculates network addresses.,netcalc.cab,1ad6330054c8948a62144c7439b85afb,Siberia-man,tools,28/02/2019 04:13 PM,netcalc,7266
 [#],netdisplay,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/example/netdisplay/netdisplay.bat,This script generates an html file showing a view of the active hosts in the local subnet.,netdisplay.bat,726e3513dbaa342374862bd18834de0a,Annikk,example,16/10/2019 03:00 AM,network,136600
 [#],nolock,https://raw.githubusercontent.com/jahwi/bget-list/master/scripts/utilities/nolock/nolock.bat,Enable or disable lock screen in windows 10.,nolock.bat,703fafd0f72ad962bbf96203418641f1,freebooter,utilities,21/01/2020 09:58 PM,nolock,1225
