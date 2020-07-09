@@ -11,3 +11,6 @@ bscripts.bat
 tagger.bat
 lgrab.bat
 helper/
+.gitignore
+*.code-workspace
+

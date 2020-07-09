@@ -1,2 +1,4 @@
 [dino] [Batch implementation of the Google Dinosaur game.] [16/05/2020]
 [ndebug] [[VBS] DOS DEBUG clone mainly for binary file editing [as a hex editor].] [16/05/2020]
+[bmk] [NTFS File bookmarking tool. Find the location of moved bookmarked files.] [09/07/2020]
+[numinfo] [Shows the properties of a number e.g. its binary; hexadecimal equivalents as well as bitwise operations.] [09/07/2020]
