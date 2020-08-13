@@ -2,3 +2,6 @@
 [ndebug] [[VBS] DOS DEBUG clone mainly for binary file editing [as a hex editor].] [16/05/2020]
 [bmk] [NTFS File bookmarking tool. Find the location of moved bookmarked files.] [09/07/2020]
 [numinfo] [Shows the properties of a number e.g. its binary; hexadecimal equivalents as well as bitwise operations.] [09/07/2020]
+[hexdump] [Writes the content of stdin as hexadecimal to stdout] [14/08/2020]
+[prismsong] [Awe-inspiring batch platformer. Play as one of three characters and use your chakra to defeat enemies.] [14/08/2020]
+[webhook-manager] [A Tool to create webhooks to make tasks] [14/08/2020]
