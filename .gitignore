@@ -11,7 +11,7 @@ bscripts.bat
 tagger.bat
 lgrab.bat
 helper/
-.gitignore
+*.gitignore
 *.code-workspace
 formats.txt
 external.txt
