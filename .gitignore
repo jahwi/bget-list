@@ -13,4 +13,6 @@ lgrab.bat
 helper/
 .gitignore
 *.code-workspace
+formats.txt
+external.txt
 
